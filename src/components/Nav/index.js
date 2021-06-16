@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from '../../assets/resume-doc/resume.pdf';
 
 function Nav({setPage}) {
   function handleClick(event) {
@@ -21,8 +22,8 @@ function Nav({setPage}) {
           <li className="mx-2" onClick={(event) => handleClick(event)}>
               Portfolio
           </li>
-          <li className={`mx-2`} onClick={(event) => handleClick(event)}>
-              Resumé
+          <li className={`mx-2`} onClick={(event) => handleClick(event)}><a href={pdf} target="blank">
+              Resumé</a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
               Contact

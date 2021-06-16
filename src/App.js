@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
   const [page, setPage] = useState(`About me`);
+  
   return (
     <div>
       <Nav setPage={setPage}></Nav>
@@ -19,10 +19,11 @@ function App() {
           <Portfolio></Portfolio> : null
         }
         {page === `Resumé` ? 
-          <Resume></Resume> : null
+          <About></About> : null
         }
         {page === `Contact` ? 
-          <ContactForm></ContactForm> : null
+          <ContactForm>
+          </ContactForm> : null
         }
       </main>
       <Footer></Footer>
