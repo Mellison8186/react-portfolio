@@ -31,7 +31,7 @@ function Portfolio() {
           alt="technical news blog"
         />
       </div>
-      <div className="row">
+      <div className="flex-row">
           <p className="col">Pizza Hunt<br></br>
            <a href="https://agile-chamber-16581.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/pizza-hunt" target="blank">
             Pizza Hunt GitHub</a></p>

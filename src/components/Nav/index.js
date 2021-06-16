@@ -19,7 +19,7 @@ function Nav({setPage}) {
               About me
             </a>
           </li>
-          <li className="mx-2" onClick={(event) => handleClick(event)}>
+          <li className={`mx-2`} onClick={(event) => handleClick(event)}>
               Portfolio
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}><a href={pdf} target="blank">
