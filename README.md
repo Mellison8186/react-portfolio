@@ -13,7 +13,7 @@ To showcase my full stack web development skills with a react profile github web
 * Bootstrap
 
 ## Website
-https://Mellison8186.github.io/run-buddy/
+https://mellison8186.github.io/react-portfolio/
 
 ## Contribution
 Made with ❤️ by Maribel Ellison
