@@ -1,4 +1,5 @@
 import React from "react";
+import retroYardsale from "../../assets/project-tiles/retroYardsale.png";
 import budgetTracker from "../../assets/project-tiles/budgetTracker.png";
 import techBlog from "../../assets/project-tiles/techBlog.png";
 import pizzaHunt from "../../assets/project-tiles/pizzaHunt.png";
@@ -9,6 +10,19 @@ import taskMasterPro from "../../assets/project-tiles/taskMasterPro.png";
 function Portfolio() {
   return (
     <section>
+      <div className="flex-row">
+      <p className="col">Retro Yardsale<br></br>
+           <a href="https://retro-yardsale.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/rookoyole/retro-yardsale" target="blank">
+            Retro Yardsale GitHub</a></p>
+          </div>
+          <div className="my-2 row col">
+        <img
+          src={retroYardsale}
+          className="my-2 col"
+          style={{ width: "80%" }}
+          alt="online retro yardsale"
+        />
+      </div>
       <div className="flex-row">
           <p className="col">Budget Tracker<br></br>
            <a href="https://polar-journey-21019.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/budget-tracker" target="blank">
