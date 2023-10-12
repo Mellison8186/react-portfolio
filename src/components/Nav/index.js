@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from '../../assets/resume-doc/resume.pdf';
+import pdf from '../../assets/resume-doc/Maribel_Resume.pdf';
 
 function Nav({setPage}) {
   function handleClick(event) {
