@@ -15,17 +15,19 @@ function Nav({setPage}) {
         <ul className="flex-row my-3 justify-content-end">
           <li className="mx-2" onClick={(event) => handleClick(event)}>
             <a href="#about">
-              About me
+              About Me
             </a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
               Portfolio
           </li>
-          <li className={`mx-2`} onClick={(event) => handleClick(event)}><a href={pdf} target="blank">
-              Resumé</a>
+          <li className={`mx-2`} onClick={(event) => handleClick(event)}>
+            <a href={pdf} target="blank">
+            Resumé</a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
-              Contact
+            <a href="#contactMe">
+              Contact</a>
           </li>
         </ul>
     </header>
