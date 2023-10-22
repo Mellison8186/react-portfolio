@@ -8,9 +8,7 @@ function Nav({setPage}) {
   return (
     <header className="flex-row space-between px-1">
       <h2 className="my-2">
-        <a href="/">
           <span role="img" aria-label="me"></span> Maribel Ellison
-        </a>
       </h2>
         <ul className="flex-row my-3 justify-content-end">
           <li className="mx-2" onClick={(event) => handleClick(event)}>
@@ -19,7 +17,7 @@ function Nav({setPage}) {
             </a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
-              Portfolio
+              <a>Portfolio</a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
             <a href={pdf} target="blank">
