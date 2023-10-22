@@ -17,7 +17,7 @@ function Nav({setPage}) {
             </a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
-              <a>Portfolio</a>
+              <a href="#portfolio">Portfolio</a>
           </li>
           <li className={`mx-2`} onClick={(event) => handleClick(event)}>
             <a href={pdf} target="blank">

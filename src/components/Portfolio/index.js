@@ -9,7 +9,7 @@ import taskMasterPro from "../../assets/project-tiles/taskMasterPro.png";
 
 function Portfolio() {
   return (
-    <section>
+    <section id="portfolio">
       <div className="flex-row">
       <p className="col">Retro Yardsale<br></br>
            <a href="https://retro-yardsale.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/rookoyole/retro-yardsale" target="blank">
