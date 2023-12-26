@@ -1,32 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.896e01a8.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.39d23feb.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.39d23feb.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.fed61080.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fed61080.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/react-portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.f6d2aa04.chunk.js": "/react-portfolio/static/js/2.f6d2aa04.chunk.js",
-    "static/js/2.f6d2aa04.chunk.js.map": "/react-portfolio/static/js/2.f6d2aa04.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.b643d2f8.css",
+    "main.js": "/react-portfolio/static/js/main.59e8002a.js",
+    "static/media/zooKeepr.png": "/react-portfolio/static/media/zooKeepr.7c74da2fd97e4937a7d2.png",
+    "static/media/techBlog.png": "/react-portfolio/static/media/techBlog.93476cb7f588e3f32cd5.png",
+    "static/media/pizzaHunt.png": "/react-portfolio/static/media/pizzaHunt.531951e5b14e1b047c2c.png",
+    "static/media/retroYardsale.png": "/react-portfolio/static/media/retroYardsale.dc8c5a06874171da18e3.png",
+    "static/media/maribelResume.pdf": "/react-portfolio/static/media/maribelResume.807323af0e978ed77934.pdf",
+    "static/media/weatherDashboard.png": "/react-portfolio/static/media/weatherDashboard.f529653c05511de37bea.png",
+    "static/media/taskMasterPro.png": "/react-portfolio/static/media/taskMasterPro.ad8befa50acae2b210fc.png",
+    "static/media/budgetTracker.png": "/react-portfolio/static/media/budgetTracker.8321f4000f7cc7a64f52.png",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.a8cb41338f9297c603da.jpg",
     "index.html": "/react-portfolio/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/react-portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.896e01a8.chunk.css.map": "/react-portfolio/static/css/main.896e01a8.chunk.css.map",
-    "static/js/2.f6d2aa04.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f6d2aa04.chunk.js.LICENSE.txt",
-    "static/media/budgetTracker.8321f400.png": "/react-portfolio/static/media/budgetTracker.8321f400.png",
-    "static/media/cover-image.a8cb4133.jpg": "/react-portfolio/static/media/cover-image.a8cb4133.jpg",
-    "static/media/maribelResume.807323af.pdf": "/react-portfolio/static/media/maribelResume.807323af.pdf",
-    "static/media/pizzaHunt.531951e5.png": "/react-portfolio/static/media/pizzaHunt.531951e5.png",
-    "static/media/retroYardsale.dc8c5a06.png": "/react-portfolio/static/media/retroYardsale.dc8c5a06.png",
-    "static/media/taskMasterPro.ad8befa5.png": "/react-portfolio/static/media/taskMasterPro.ad8befa5.png",
-    "static/media/techBlog.93476cb7.png": "/react-portfolio/static/media/techBlog.93476cb7.png",
-    "static/media/weatherDashboard.f529653c.png": "/react-portfolio/static/media/weatherDashboard.f529653c.png",
-    "static/media/zooKeepr.7c74da2f.png": "/react-portfolio/static/media/zooKeepr.7c74da2f.png"
+    "main.b643d2f8.css.map": "/react-portfolio/static/css/main.b643d2f8.css.map",
+    "main.59e8002a.js.map": "/react-portfolio/static/js/main.59e8002a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fed61080.js",
-    "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.f6d2aa04.chunk.js",
-    "static/css/main.896e01a8.chunk.css",
-    "static/js/main.39d23feb.chunk.js"
+    "static/css/main.b643d2f8.css",
+    "static/js/main.59e8002a.js"
   ]
 }
