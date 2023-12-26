@@ -25,7 +25,7 @@ function Portfolio() {
       </div>
       <div className="flex-row">
           <p className="col">Budget Tracker<br></br>
-           <a href="https://polar-journey-21019.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/budget-tracker" target="blank">
+           <a href="https://budget-tracker-rust.vercel.app/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/budget-tracker" target="blank">
             Budget Tracker GitHub</a></p>
           <p className="col">Tech Blog<br></br>
             <a href="https://sleepy-gorge-41466.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/tech-blog" target="blank">
