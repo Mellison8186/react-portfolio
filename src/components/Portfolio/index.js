@@ -25,10 +25,11 @@ function Portfolio() {
       </div>
       <div className="flex-row">
           <p className="col">Budget Tracker<br></br>
-           <a href="https://budget-tracker-tau-nine.vercel.app/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/budget-tracker" target="blank">
+           <a href="https://budget-tracker-tau-nine.vercel.app/" target="blank">Link to Deployed App</a><br></br>
+           <a href="https://github.com/Mellison8186/budget-tracker" target="blank">
             Budget Tracker GitHub</a></p>
           <p className="col">Tech Blog<br></br>
-            <a href="https://sleepy-gorge-41466.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/tech-blog" target="blank">
+           {/* <a href="https://sleepy-gorge-41466.herokuapp.com/" target="blank">Link to Deployed App</a><br></br> */}<a href="https://github.com/Mellison8186/tech-blog" target="blank">
             Tech Blog GitHub</a></p>
           </div>
           <div className="my-2 row col">
@@ -47,10 +48,10 @@ function Portfolio() {
       </div>
       <div className="flex-row">
           <p className="col">Pizza Hunt<br></br>
-           <a href="https://agile-chamber-16581.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/pizza-hunt" target="blank">
+          {/* <a href="https://agile-chamber-16581.herokuapp.com/" target="blank">Link to Deployed App</a><br></br> */} <a href="https://github.com/Mellison8186/pizza-hunt" target="blank">
             Pizza Hunt GitHub</a></p>
           <p className="col">Zoo Keepr<br></br>
-           <a href="https://desolate-fjord-55350.herokuapp.com/" target="blank">Link to Deployed App</a><br></br><a href="https://github.com/Mellison8186/zookeepr" target="blank">
+           {/*<a href="https://desolate-fjord-55350.herokuapp.com/" target="blank">Link to Deployed App</a><br></br> */} <a href="https://github.com/Mellison8186/zookeepr" target="blank">
             Zoo Keepr GitHub</a></p>
           </div>
       <div className="my-2 row col">
